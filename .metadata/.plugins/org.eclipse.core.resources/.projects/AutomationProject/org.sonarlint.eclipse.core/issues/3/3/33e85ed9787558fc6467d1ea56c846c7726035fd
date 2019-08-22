@@ -1,0 +1,13 @@
+
+‡"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(šá°ûÿÿÿÿRMINORZ
+CODE_SMELL
+Lsquid:S1451"&Add or update the header of this file.HRBLOCKERZ
+CODE_SMELL
+p
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(â½œêøÿÿÿÿ8–ïöÇÊ-HRMAJORZ
+CODE_SMELL
+qsquid:S00105"EReplace all tab characters in this file by sequences of white-spaces.8–ïöÇÊ-HRMINORZ
+CODE_SMELL
+Œ squid:LeftCurlyBraceEndLineCheck	"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8–ïöÇÊ-HRMINORZ
+CODE_SMELL
